@@ -5,12 +5,12 @@
     Reorganize the following steps of the Software Development Lifecycle to be in their correct order.
 */
 
-//Planning 
-//Analysis of Requirements
-//Design
-//Testing & Integration
-//Implementaion
-//Maintain
+    //Planning 
+    //Analysis of Requirements
+    //Design
+    //Testing & Integration
+    //Implementaion
+    //Maintain
 
 
 //////////////////PROBLEM 2////////////////////
@@ -23,4 +23,4 @@ const analysisOfRequirements = "The analysis includes gathering all the specific
 const design = "The design stage is when developers define the technical details of the product. These details can include screen designs, databases, sketches, system interfaces, and prototypes.";
 const testingAndIntegration = "During the testing stage, developers will carefully go over their software, looking for bugs or defects that need to be tracked, fixed, and later retested.";
 const implementation = "Different designs will be integrated into the primary code usually through user notification, user training, installation of hardware, installation of software onto production computers, and integration of the system into the daily processes.";
-const maintain = "During the maintance stage, developers now begin practicing any activies required to handle issues reported by end users. Developers are also responsible for implementing any changes that the softwar jmight need after depolyment.";
+const maintain = "During the maintance stage, developers handle issues reported by end users. Developers are responsible for implementing any changes that the software might need after depolyment.";

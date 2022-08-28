@@ -20,7 +20,8 @@ colorCopy.push('pink');
 
 const numbers = [1, 2, 3, 4, 5]
 
-let middleNums = numbers
+let middleNums = []
+middleNums = numbers[1, 2, 3];
 console.log(middleNums)
 
 
@@ -37,10 +38,11 @@ console.log(middleNums)
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 let answers = [];
+
 for(let i = 0; i < bigOrSmallArray.length; i++){
-  if(bigOrSmallArray > 100){
+  if(bigOrSmallArray[i] > 100){
     answers.push('big');
-  } else if(bigOrSmallArray <= 100){
+  } else if(bigOrSmallArray[i] <= 100){
     answers.push('small');
   }
   console.log(answers);

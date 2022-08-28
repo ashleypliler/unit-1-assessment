@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-let gitDefinition = "Git is a tool that helps you manage your code and saves your code in a project at a specific time. ";
+let gitDefinition = "Git is a tool that helps you manage your code and saves your code in a project at a specific place. ";
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@ let gitDefinition = "Git is a tool that helps you manage your code and saves you
     It should be a string containing your best definition of what GitHub is.
 */
 
-let gitHubDefinition = "github is a code platform where you can upload your code for version control and collaboration. It lets you and others work together on projects from anywhere.";
+let gitHubDefinition = "github is a code platform where you can upload your code for version control and collaboration in a repository. It lets you and others work together on projects from anywhere.";
 
 //////////////////PROBLEM 3////////////////////
 /*
