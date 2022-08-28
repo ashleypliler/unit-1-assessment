@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-let gitDefinition = "Git is a tool that helps you manage your code and saves your code in a project at a specific place. ";
+let gitDefinition = "Git is a tool that helps developers manage their code, keep track of the state of their code, and allows collaboration on a codebase.";
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -52,7 +52,7 @@ let gitStatusDefinition = "git status displays the directroy and lets you see th
     It should be a string containing the code to add all files.
 */
 
-let gitAddDefinition = "git add directs git to save the files and project to the commit history. ";
+let gitAddDefinition = "git add selects files and tells git that you want to include updates to those specific files in the next commit.";
 let gitAddCode = "git add .";
 //////////////////PROBLEM 7////////////////////
 /*
@@ -63,7 +63,7 @@ let gitAddCode = "git add .";
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-let gitCommitDefinition = "git commit gets a snap shot of all the code that has been added through 'git add' and saves them to the repository.";
+let gitCommitDefinition = "git commit gets a snap shot of all the files that 'git add' selected and saves them to the repository.";
 let gitCommitCode = "git commit -m 'initial commit'"
 
 //////////////////PROBLEM 8////////////////////
@@ -72,4 +72,4 @@ let gitCommitCode = "git commit -m 'initial commit'"
     It should be a string containing your best definition of what 'git push' does.
 */
 
-let gitPushDefinition = "git push pushs all of your adds and commits to the repository on github. It is what connects your code to your github.";
+let gitPushDefinition = "git push pushes all of your adds and commits to the repository on github. It is what connects your code to your github.";
